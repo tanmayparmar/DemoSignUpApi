@@ -1,0 +1,11 @@
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp2.0\DemoAPI.deps.json
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp2.0\DemoAPI.runtimeconfig.json
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp2.0\DemoAPI.runtimeconfig.dev.json
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp2.0\DemoAPI.dll
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp2.0\DemoAPI.pdb
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp2.0\DemoAPI.csprojResolveAssemblyReference.cache
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp2.0\DemoAPI.csproj.CoreCompileInputs.cache
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp2.0\DemoAPI.AssemblyInfoInputs.cache
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp2.0\DemoAPI.AssemblyInfo.cs
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp2.0\DemoAPI.dll
+c:\users\parma\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp2.0\DemoAPI.pdb
